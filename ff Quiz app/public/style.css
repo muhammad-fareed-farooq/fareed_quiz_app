@@ -1,0 +1,50 @@
+
+body{
+     text-align: center;
+     background-color: antiquewhite;
+    
+}
+
+
+#opts4{
+     border: 2px solid cadetblue;
+     display: inline-block;
+     font-size: 30px;
+     padding: 20px;
+     width: 500px;
+     text-align: start;    
+     border-radius: 20px;
+     background-color: cadetblue;
+     font-family: Arial, Helvetica, sans-serif;
+
+
+    }
+
+
+    button{
+        font-size: 23px;
+        border-radius: 10px;
+        padding: 10px;
+        width: 120px;
+        font-family: Arial, Helvetica, sans-serif;
+        
+        
+    }
+
+    #ques{
+        font-size: 30px;
+        color: cadetblue;
+        font-family: Arial, Helvetica, sans-serif;
+        
+    }
+
+        
+    
+    #timer{
+        font-size: 25px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    h1{
+        font-size: 50px;
+        font-family: monospace;
+    }
